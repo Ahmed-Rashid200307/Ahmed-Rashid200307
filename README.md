@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on a Resume Web App<br>Looking to collaborate on problem-solving and innovative projects with developers<br>I'm looking for help with my current project<br>I'm currently learning Django, Node.js, API development, and overall web development<br>Ask me about front-end development, JavaScript, and project deployment<br>Fun fact: I enjoy building and deploying real-world web apps!
+ Looking for guidance and deeper insights into Django, API design, and efficient backend practices.
+
+ Actively learning Django, advanced Python, Node.js, and modern web development workflows.
+
+ Comfortable with front-end development, JavaScript, UI/UX structuring, and full-stack deployment pipelines.
 
 
 ## 🌐 Socials:
