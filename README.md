@@ -1,7 +1,13 @@
 # 💫 About Me:
- Looking for guidance and deeper insights into Django, API design, and efficient backend practices.
+ Currently building a Resume Web App and working on data-driven projects.
 
- Actively learning Django, advanced Python, Node.js, and modern web development workflows.
+ Open to collaborating on backend-heavy applications, Django-based solutions, and API integrations.
+
+ Seeking deeper insights into Django, data handling, and scalable backend architectures.
+
+ Actively learning Django, advanced Python, Node.js, and efficient web development practices.
+
+ Skilled in data manipulation and analysis using Pandas and NumPy.
 
  Comfortable with front-end development, JavaScript, UI/UX structuring, and full-stack deployment pipelines.
 
