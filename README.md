@@ -1,5 +1,5 @@
 #  About Me:
- Currently building a Resume Web App and working on data-driven projects.
+ Currently building a Web App and working on data-driven projects.
 
  Open to collaborating on backend-heavy applications, Django-based solutions, and API integrations.
 
